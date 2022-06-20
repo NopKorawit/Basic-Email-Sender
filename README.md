@@ -1,16 +1,16 @@
 # EmailSender
 
-##Basic Email sending
+## Basic Email sending
 
-###Edit .env file
+### Edit .env file
 *EMAIL
 *PASSWORD
 *HOST
 *PORT
 
-###Edit message in main.go
+### Edit message in main.go
 
-run in ##cmd
+run in ## cmd
 ```
 go run main.go
 ```
