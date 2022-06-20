@@ -3,10 +3,10 @@
 ## Basic Email sending
 
 ### Edit .env file
-*EMAIL
-*PASSWORD
-*HOST
-*PORT
+* EMAIL
+* PASSWORD
+* HOST
+* PORT
 
 ### Edit message in main.go
 
